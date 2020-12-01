@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "664441975285",
+    "firebase_url": "https://projectlyte.firebaseio.com",
+    "project_id": "projectlyte",
+    "storage_bucket": "projectlyte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664441975285:android:934992d22460848760b0bc",
+        "android_client_info": {
+          "package_name": "com.example.projectlyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664441975285-163d556rfd40i5ab98r1mk2ohsorqohh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectlyte",
+            "certificate_hash": "0e618edc3e39e112363bb5e0b8c74e9f40c1246b"
+          }
+        },
+        {
+          "client_id": "664441975285-q1qnaqlm58ele1gmdh7kj381k31klbun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz0yY5jxnGj_NzLj1bh7wpYh4i3bmKgZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664441975285-q1qnaqlm58ele1gmdh7kj381k31klbun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
